@@ -10,6 +10,12 @@ Analyzed sales and marketing performance for a home decoration e-commerce busine
 - Data Visualization (Matplotlib, Seaborn)
 - Marketing Analytics
 
+## Data Structure
+HomeDeco database structure as seen below consists of four tables: daily_clients, monthly_sales, daily_web_traffic and dim_date.
+
+![alt text](image-1.png)
+
+Prior to beginning the analysis, data was cleaned and transformed to align with the business requirements.
 ## Key Findings
 
 ### Sales & Marketing Performance
